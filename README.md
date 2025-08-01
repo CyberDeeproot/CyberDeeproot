@@ -1,20 +1,15 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
+<h1 align="center">Hi 👋, I'm CyberDeep</h1>
+<h3 align="left">🔐 Aspiring Cybersecurity Specialist | Passionate About Ethical Hacking  
+🚀 Currently learning cyber defense, system security & penetration testing  
+📚 Building strong foundations in C, C++, Python & Networking</h3>
 
-### Hi 👋 I'm Deepak  
-*Aspiring Cybersecurity Specialist*  
-Passionate about *Ethical Hacking*  
-Currently learning C, C++, Python, and Networking.
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="CyberDeep hacking" />
+</p>
 
-      </td>
-      <td>
-        <img src="https://github.com/YourUsername/YourRepoName/blob/main/A_2D_digital_illustration_features_a_3D-rendered_c.png?raw=true" width="300px" alt="CyberDeep Hacker Animation" />
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+
 
 ### 🧠 About Me:
 
