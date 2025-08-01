@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm CyberDeep</h1>
+<h3 align="center">Beginner Cybersecurity Learner | Ethical Hacker in Progress</h3>
 
-<!--
-**CyberDeeproot/CyberDeeproot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://i.pinimg.com/originals/06/43/2e/06432eb433e7f3ddf806e4d64ecadf1d.gif" width="300"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me:
+- 🔭 I’m currently learning *Cyber Security & Ethical Hacking*
+- 🌱 I’ve completed Networking and ADCA
+- 💻 I know *C, C++, Python (Basics)*
+
+---
+
+### 📫 How to reach me:
+- Gmail: your_email@example.com
+- LinkedIn: [Your LinkedIn Link]
+- Instagram: @yourinsta
+
+---
+
+### 🛠 Tools & Languages:
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+### 🧑‍💻 Fun Fact:
+```ascii
+        (⌐■_■)
+      /︻╦╤─ – – – CyberDeep is Watching
+
