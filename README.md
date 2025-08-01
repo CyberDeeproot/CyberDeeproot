@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">Beginner Cybersecurity Learner | Ethical Hacker in Progress</h3>
+<h3 align="center">🔐 Aspiring Cybersecurity Specialist | Passionate About Ethical Hacking  
+🚀 Currently learning cyber defense, system security & penetration testing  
+📚 Building strong foundations in C, C++, Python & Networking</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/06/43/2e/06432eb433e7f3ddf806e4d64ecadf1d.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="CyberDeep hacking" />
 </p>
 
 ---
 
 ### 🧠 About Me:
-- 🔭 I’m currently learning *Cyber Security & Ethical Hacking*
-- 🌱 I’ve completed Networking and ADCA
-- 💻 I know *C, C++, Python (Basics)*
+
+- 🚀 I'm on a mission to become a *Certified Ethical Hacker*
+- 🧩 Completed core Networking concepts and *ADCA certification*
+- 💻 Skilled in *C, C++, Python (Basics)* and continuously learning
+- 🛠 Interested in *Bug Bounty, Linux, and System Security*
+- 🌐 Exploring tools like *Kali Linux, Nmap, Wireshark, Burp Suite*
+- 👨‍💻 Currently practicing basic projects to build real-world skills
 
 ---
 
