@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Deepak</h1>
-<h3 align="center">🔐 Aspiring Cybersecurity Specialist | Passionate About Ethical Hacking  
-🚀 Currently learning cyber defense, system security & penetration testing  
-📚 Building strong foundations in C, C++, Python & Networking</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="CyberDeep hacking" />
-</p>
-
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+  <div style="flex: 1;">
+    <h1>Hi 👋 I'm Deepak</h1>
+    <p>Aspiring Cybersecurity Specialist | Passionate about Ethical Hacking</p>
+    <p>Currently learning C, C++, Python & Networking</p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="3d-hacker-character-facing-you.gif" alt="Hacker Animation" style="width: 300px;">
+  </div>
+</div>
 ---
 
 ### 🧠 About Me:
