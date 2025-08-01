@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CyberDeep</h1>
-<h3 align="left">🔐 Aspiring Cybersecurity Specialist | Passionate About Ethical Hacking  
+<h3 style="text-align: left">🔐 Aspiring Cybersecurity Specialist | Passionate About Ethical Hacking  
 🚀 Currently learning cyber defense, system security & penetration testing  
 📚 Building strong foundations in C, C++, Python & Networking</h3>
 
