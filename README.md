@@ -8,8 +8,8 @@
 🧠 About Me:
 
 - 👨‍💻 I'm learning Cybersecurity & Ethical Hacking with deep interest in digital safety.
-- 🧑‍🎓 Completed Networking and ADCA certifications.
-- 💻 I know C, C++, and basic Python.
+- 🎓 Certified in *ADCP* (Advanced Diploma in Computer Programming) from DIIT | Complete core *NETWORKING* - building my path in cybersecurity.
+- 💻 I know *C*, *C++*, and basic *PYTHON*.
 - 🌐 Exploring *HTML & CSS* to craft custom UIs for my cyber labs and tools.
 - 🚀 On a mission to protect the cyber world — one step at a time.
 
