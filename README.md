@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CyberDeep</h1>
+<h1 align="center">Hi 👋, I'm Deepak</h1>
 <h3 align="center">Beginner Cybersecurity Learner | Ethical Hacker in Progress</h3>
 
 <p align="center">
@@ -15,10 +15,9 @@
 ---
 
 ### 📫 How to reach me:
-- Gmail: your_email@example.com
-- LinkedIn: [Your LinkedIn Link]
-- Instagram: @yourinsta
-
+- Gmail 1: cyberdeep0101@gmail.com
+- Gmail 2: deepakkumr965424@gmail.com
+  
 ---
 
 ### 🛠 Tools & Languages:
