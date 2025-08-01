@@ -1,14 +1,20 @@
-<div style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
-  <div style="flex: 1;">
-    <h1>Hi 👋 I'm Deepak</h1>
-    <p>Aspiring Cybersecurity Specialist | Passionate about Ethical Hacking</p>
-    <p>Currently learning C, C++, Python & Networking</p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="3d-hacker-character-facing-you.gif" alt="Hacker Animation" style="width: 300px;">
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+
+### Hi 👋 I'm Deepak  
+*Aspiring Cybersecurity Specialist*  
+Passionate about *Ethical Hacking*  
+Currently learning C, C++, Python, and Networking.
+
+      </td>
+      <td>
+        <img src="https://github.com/YourUsername/YourRepoName/blob/main/A_2D_digital_illustration_features_a_3D-rendered_c.png?raw=true" width="300px" alt="CyberDeep Hacker Animation" />
+      </td>
+    </tr>
+  </table>
 </div>
----
 
 ### 🧠 About Me:
 
